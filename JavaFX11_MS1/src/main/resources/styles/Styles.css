@@ -1,0 +1,7 @@
+.button {
+    -fx-font-weight: bold;
+}
+
+.backgroundColor {
+	-fx-background-color: blue;
+}
